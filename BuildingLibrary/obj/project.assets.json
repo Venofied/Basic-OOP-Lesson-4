@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "BuildingLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/BuildingLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BuildingLibrary.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "BuildingLibrary/1.0.0": {
-      "type": "project",
-      "path": "../BuildingLibrary/BuildingLibrary.csproj",
-      "msbuildProject": "../BuildingLibrary/BuildingLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "BuildingLibrary >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Venofied\\.nuget\\packages\\": {},
@@ -34,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\Lesson_3\\Lesson_3.csproj",
-      "projectName": "Lesson_3",
-      "projectPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\Lesson_3\\Lesson_3.csproj",
+      "projectUniqueName": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\BuildingLibrary\\BuildingLibrary.csproj",
+      "projectName": "BuildingLibrary",
+      "projectPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\BuildingLibrary\\BuildingLibrary.csproj",
       "packagesPath": "C:\\Users\\Venofied\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\Lesson_3\\obj\\",
+      "outputPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\BuildingLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,11 +41,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\BuildingLibrary\\BuildingLibrary.csproj": {
-              "projectPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_3\\BuildingLibrary\\BuildingLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

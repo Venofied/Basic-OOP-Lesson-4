@@ -1,0 +1,12 @@
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\bin\Debug\net6.0\BuildingLibrary.deps.json
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\bin\Debug\net6.0\BuildingLibrary.dll
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\bin\Debug\net6.0\ref\BuildingLibrary.dll
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\bin\Debug\net6.0\BuildingLibrary.pdb
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.csproj.AssemblyReference.cache
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.AssemblyInfoInputs.cache
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.AssemblyInfo.cs
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.dll
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\ref\BuildingLibrary.dll
+C:\Users\Venofied\source\repos\Lesson_3\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.pdb

@@ -7,4 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="HashTable\**" />
+    <EmbeddedResource Remove="HashTable\**" />
+    <None Remove="HashTable\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Building.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuildingLibrary\BuildingLibrary.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson_3
+namespace BuildingLibrary
 {
     /// <summary>
     /// Элемент данных хеш таблицы.

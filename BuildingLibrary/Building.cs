@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson_3
+namespace BuildingLibrary
 {
     public sealed class Building
     {
@@ -85,14 +85,14 @@ namespace Lesson_3
             return LastID++;
         }
 
-        internal class Creator
+        public class Creator
         {
 
             private static Building Build = null;
 
             public static int Key = 0;
 
-            static HashTable ht = new Lesson_3.HashTable();
+            static HashTable ht = new HashTable();
             public static Building Create()
             {
                 return new Building();
@@ -117,7 +117,7 @@ namespace Lesson_3
                     CreateBuild();
                 }
 
-                ht.Insert(_key++.ToString(), Build);
+                ht.Insert(Key++.ToString(), Build);
             }
 
             public static void DeleteHashTable(int key)

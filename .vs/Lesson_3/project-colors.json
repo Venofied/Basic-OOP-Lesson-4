@@ -5,7 +5,12 @@
       "ProjectGuid": "c930dfe2-ff42-43d0-8e65-f78ab09bb57a",
       "DisplayName": "Lesson_3",
       "ColorIndex": 0
+    },
+    "d28cc6ab-8248-4776-931c-3add9b4786dc": {
+      "ProjectGuid": "d28cc6ab-8248-4776-931c-3add9b4786dc",
+      "DisplayName": "BuildingLibrary",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
